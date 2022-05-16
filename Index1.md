@@ -16,19 +16,7 @@
     <a href="?ddd"></a>
     <a href="?ddd2"></a>
     <a href="?corn"></a>
-    <h1>^PILNE^<h1>
-    <p>
-    <a href="https://forms.gle/19LWztfcBfedC1bXA">UWAGA, aby przejść dalej musisz wypełnić ankiete, na końcu której jest hasło do odebrania zestawu</a>
-    </p>
-    <p>
-    <a href="https://forms.gle/19LWztfcBfedC1bXA"> Link do ankiety: https://forms.gle/19LWztfcBfedC1bXA</a>
-    </p>
-    <h1>^PILNE^<h1>
-    <a href="https://makaralazbombasu.github.io/geremek.github.io/"> KLIK - wysyła fekalną paczkę na Szkolna17</a>
-      <div>
-    <label for="pass">HASŁO (8 znaków):</label>
-    <input type="password" id="pass" name="osiemnascieznakow"
-           minlength="8" required>
+ 
 </div>
 
     <button class="napierdalacz">
