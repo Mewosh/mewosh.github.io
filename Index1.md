@@ -1,3 +1,4 @@
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -27,7 +28,7 @@
       <div>
     <label for="pass">HASŁO (8 znaków):</label>
     <input type="password" id="pass" name="osiemnascieznakow"
-           minlength="8" >
+           minlength="8" required>
 </div>
 
     <button class="napierdalacz">
